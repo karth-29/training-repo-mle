@@ -1,0 +1,16 @@
+Script started on 2024-09-18 16:38:24+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;karthik@TIGER01629: ~[01;32mkarthik@TIGER01629[00m:[01;34m~[00m$ [7m'/home/karthik/my_unix_session'[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P'/home/karthik/my_unix_session[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004lmy_unix_session
+[?2004h]0;karthik@TIGER01629: ~[01;32mkarthik@TIGER01629[00m:[01;34m~[00m$ pwd
+[?2004l/home/karthik
+[?2004h]0;karthik@TIGER01629: ~[01;32mkarthik@TIGER01629[00m:[01;34m~[00m$ stop
+[?2004lCommand 'stop' not found, but there are 21 similar ones.
+[?2004h]0;karthik@TIGER01629: ~[01;32mkarthik@TIGER01629[00m:[01;34m~[00m$ exi
+[?2004lCommand 'exi' not found, but there are 14 similar ones.
+[?2004h]0;karthik@TIGER01629: ~[01;32mkarthik@TIGER01629[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-18 17:28:16+05:30 [COMMAND_EXIT_CODE="127"]
